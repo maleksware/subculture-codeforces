@@ -1,7 +1,7 @@
 {
   "name": "GachiForces",
   "description": "Заменяет ранги CF на ранги в гачи",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "action": {
     "default_icon": {
